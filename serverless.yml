@@ -13,3 +13,7 @@ functions:
     handler: handler.hello
     events:
       - http: GET hello
+  goodbye:
+    handler: handler.goodbye
+    events:
+      - http: GET goodbye
