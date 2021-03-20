@@ -1,0 +1,23 @@
+{
+  "name": "leandeveloper-apilambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless-offline": "^6.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseconstela/leandeveloper-apilambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseconstela/leandeveloper-apilambda/issues"
+  },
+  "homepage": "https://github.com/joseconstela/leandeveloper-apilambda#readme"
+}
